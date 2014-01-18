@@ -1,0 +1,21 @@
+{
+  "name": "jo-directive-testing",
+  "version": "0.0.0",
+  "description": "",
+  "main": "karma.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Obney",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "karma": "*",
+    "karma-jasmine": "*",
+    "karma-chrome-launcher": "*",
+    "karma-firefox-launcher": "*",
+    "karma-ng-html2js-preprocessor": "*"
+  }
+}
